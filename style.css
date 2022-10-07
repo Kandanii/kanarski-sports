@@ -1,0 +1,13 @@
+body {
+background: #6e6060;
+}
+h1 {
+    text-align: center;
+    text-decoration-color: blue;
+    font-size: 20px;
+}
+p {
+    text-align: center;
+    text-decoration-color: crimson;
+    font-size: 18px;
+}
